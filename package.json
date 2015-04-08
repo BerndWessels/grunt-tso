@@ -10,7 +10,7 @@
     "url": "https://github.com/BerndWessels"
   },
   "keywords": [
-    "gruntplugin"
+    "grunt typescript order"
   ],
   "main": "Gruntfile.js",
   "engines": {
