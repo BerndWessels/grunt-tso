@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../grunt-tso/Gruntfile.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../grunt-tso/README.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../grunt-tso/package.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../grunt-tso/tasks/tso.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../grunt-tso/test/c.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../grunt-tso/test/d.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../grunt-tso/test/f.d.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../grunt-tso/test/one/a.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../grunt-tso/test/one/index.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../grunt-tso/test/two/a.ts" charset="UTF-8" />
+  </component>
+</project>
