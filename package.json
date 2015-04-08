@@ -1,6 +1,6 @@
 {
   "name": "grunt-tso",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Parse typescript files for references to generate the correct build order.",
   "homepage": "https://github.com/BerndWessels/grunt-tso",
   "repository": "https://github.com/BerndWessels/grunt-tso.git",

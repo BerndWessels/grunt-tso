@@ -164,7 +164,7 @@ module.exports = function (grunt) {
               res += '\n' + indent + '<script src="' + item
                 .replace(/\\/g, '/')
                 .replace(/\.ts$/, options.htmlOutExt)
-                .replace(escapeForRegExp(options.truncateDir), options.htmlOutDir) +
+                .replace(new RegExp(escapeForRegExp(options.truncateDir)), options.htmlOutDir) +
               '"></script>';
             });
             return res + '\n' + indent + endtag;
